@@ -117,7 +117,7 @@ namespace SaveEditor
         public static Dictionary<int, string> MagicList;
         public static Dictionary<int, string> BattalionSkillList;
     
-        public static void Init(enmLanguage lang = enmLanguage.en_u, bool DumpToFile = false)
+        public static void Init(enmLanguage lang = enmLanguage.jp, bool DumpToFile = false)
         {
             try
             {
